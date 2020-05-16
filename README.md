@@ -5,3 +5,4 @@ The movielens data is too large to be uploaded, so currently this part of experi
 Experiments on LastFM and Yelp can be implemented. Pretrained models are also uploaded to be tested directly.
 
 Source codes are in the "src" folder.
+# IntpRecSysRRepCodes
